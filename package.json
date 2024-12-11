@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/pg": "^8.11.10",
+    "better-auth": "^1.0.15",
     "dotenv": "^16.4.7",
     "drizzle-orm": "^0.38.0",
+    "kysely": "^0.27.5",
     "next": "15.1.0",
+    "pg": "^8.13.1",
     "postgres": "^3.4.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
